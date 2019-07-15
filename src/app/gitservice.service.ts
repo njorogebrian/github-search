@@ -13,7 +13,7 @@ export class GitserviceService {
   private accesstoken = '6da7d12bfd64b068d6056161f5fcd87c80ea9d2a';
 
   constructor( private http: HttpClient) {
-    this.username = "ChelseaOwiti"
+    this.username = "njorogebrian"
    }
   //getting github data
   getUser(username){
