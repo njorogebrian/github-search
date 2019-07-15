@@ -26,10 +26,10 @@ export class LandpageComponent implements OnInit {
     private gitserviceservice: GitserviceService,
     private http: HttpClient
   ) { 
-    this.gitserviceservice.getUser('ChelseaOwiti').subscribe(data =>{
+    this.gitserviceservice.getUser('njorogebrian').subscribe(data =>{
       this.data= data;
     });
-    this.gitserviceservice.getRepo('ChelseaOwiti').subscribe(repo =>{
+    this.gitserviceservice.getRepo('njorogebrian').subscribe(repo =>{
       this.repos= repo;
       console.log(this.repos);
     });
