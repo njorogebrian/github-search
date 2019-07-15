@@ -1,7 +1,8 @@
 # GitSearch
 
-####  Git-Search Application, June 10th, 2019
-####  By **Chelsea Owiti**
+####  Git-Search Application,
+
+####  By **Brian Njoroge**
 
 ## Description
 An application that enables users to look up their GitHub profiles and view their repositories
@@ -16,7 +17,7 @@ User Inputs GitHub username and application outputs profile details and reposito
  Repositories might not display
 
  ## Support and Contatct Details
-chelseaowiti@gmail.com
+@ briannjoroge2000@gmail.com
 
 ## Further help
 Visit the Angular Documentation
